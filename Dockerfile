@@ -1,3 +1,4 @@
+# https://thesorauniverse.com/posts/kr/golang/making-golang-docker-img-best-practices/
 FROM golang:alpine AS builder
 
 ENV GO111MODULE=on \
